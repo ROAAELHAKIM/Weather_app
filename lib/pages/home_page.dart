@@ -7,7 +7,6 @@ import 'package:weather_app/cubits/weather_cubit/weather_state.dart';
 import 'package:weather_app/main.dart';
 import 'package:weather_app/models/weather_model.dart';
 import 'package:weather_app/pages/search_page.dart';
-import 'package:weather_app/providers/weather_provider.dart';
 
 
 class HomePage extends StatelessWidget {
